@@ -1,0 +1,6 @@
+[submodule "ev3-remote-control-server"]
+	path = ev3-remote-control-server
+	url = git@github.com:valknight/ev3-remote-control-server.git
+[submodule "EV3-brick-controller"]
+	path = EV3-brick-controller
+	url = git@github.com:valknight/EV3-brick-controller.git
