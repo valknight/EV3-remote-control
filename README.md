@@ -2,8 +2,6 @@
 
 This master repo has two submodules.
 
-![GIF of a spinning EV3](https://i.imgur.com/jem4agY.gif)
-
 ## ev3-remote-control-server
 
 This project is to provide a server side application for controls and interaction with EV3 robots or other similar robot. It is designed to be mobile friendly, and easy to use for remote and in person education sessions.
